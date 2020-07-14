@@ -1,0 +1,15 @@
+{
+  "name": "single-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "docsify serve ./docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.1"
+  }
+}
