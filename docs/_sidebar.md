@@ -11,4 +11,3 @@
     - [组件管理](/backend/component.md)
 * 电商页
   * [安装](/store/)
-  * [开发](/store/dev.md)
