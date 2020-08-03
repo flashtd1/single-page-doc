@@ -1,4 +1,9 @@
 * [首页](/)
+* jenkins
+  * [概述](/jenkins/)
+  * [nginx及配置](/jenkins/nginx.md)
+  * [服务类项目部署](/jenkins/service.md)
+  * [静态网页类项目部署](/jenkins/static.md)
 * 接口
   * [安装](/api/)
   * [开发](/api/dev.md)
